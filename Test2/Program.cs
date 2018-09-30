@@ -10,6 +10,7 @@ namespace Test2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Так пишется функция и в нее передается параметром строка");
         }
     }
 }
